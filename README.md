@@ -1,4 +1,4 @@
-# Excitation Simulation Utility (HE-SU).
+# The Heart Excitation Simulation Utility (HE-SU).
 This utility is used for simulating The Heart Excitation Simulation Utility (HE-SU). 
 
 ## About HE-SU
